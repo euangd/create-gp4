@@ -31,6 +31,7 @@ Usage of create-gp4:
 
 ## Source code overview
 All the source code resides in `main.go` since the program is relatively trivial.
+.......
 
 ## Maintainers + Thanks
 - Specter: Lead maintainer
